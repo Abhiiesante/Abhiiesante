@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhiram
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DL, NLP
+- 🌱 I’m currently learning EDA, DL
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me: jellaabhiram929@gmail.com
 
