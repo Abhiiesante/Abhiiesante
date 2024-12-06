@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: [fun_fact]
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=$$Abhiiesante$$&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=$$abhiiesante$$&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$Abhiiesante$$&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$abhiiesante$$&layout=compact&theme=radical)
