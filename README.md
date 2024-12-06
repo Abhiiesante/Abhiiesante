@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Abhiram
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning EDA, DL
-- 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me: jellaabhiram929@gmail.com
+# Hello, I'm $$USERNAME$$ 👋
 
-<!---
-Abhiiesante/Abhiiesante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## About Me
+- 🔭 I’m currently working on [project_name](project_link)
+- 🌱 I’m currently learning [technology_name]
+- 👯 I’m looking to collaborate on [project_type]
+- 🤔 I’m looking for help with [issue_or_project]
+- 💬 Ask me about [topics]
+- 📫 How to reach me: [contact_info]
+- 😄 Pronouns: [pronouns]
+- ⚡ Fun fact: [fun_fact]
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=$$Abhiiesante$$&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$Abhiiesante$$&layout=compact&theme=radical)
