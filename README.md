@@ -1,16 +1,16 @@
-# Hello, I'm $$USERNAME$$ 👋
+# Hello, I'm Abhiram 👋
 
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently working on [project_name](project_link)
-- 🌱 I’m currently learning [technology_name]
-- 👯 I’m looking to collaborate on [project_type]
-- 🤔 I’m looking for help with [issue_or_project]
-- 💬 Ask me about [topics]
-- 📫 How to reach me: [contact_info]
-- 😄 Pronouns: [pronouns]
-- ⚡ Fun fact: [fun_fact]
+- 🔭 I’m currently working on medical-portal
+- 🌱 I’m currently learning Next.js
+- 👯 I’m looking to collaborate on Full Stack
+- 🤔 I’m looking for help with Disease Integration
+- 💬 Ask me about Data Science
+- 📫 How to reach me: jellaabhiram929@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm just a chill guy
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiiesante&show_icons=true&theme=radical)
