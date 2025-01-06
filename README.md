@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 ## About Me
 - 🔭 I’m currently working on medical-portal
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Full Stack
+- 🌱 I’m currently learning ML, DL
+- 👯 I’m looking to collaborate on ML Projects
 - 🤔 I’m looking for help with Disease Integration
 - 💬 Ask me about Data Science
 - 📫 How to reach me: jellaabhiram929@gmail.com
