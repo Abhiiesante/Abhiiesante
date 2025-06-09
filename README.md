@@ -19,4 +19,3 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiesante&layout=compact&theme=radical)
 
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tmaqplnkab5sokndsrbsjucbkm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tmaqplnkab5sokndsrbsjucbkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
