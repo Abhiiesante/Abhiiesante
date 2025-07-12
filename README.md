@@ -41,9 +41,9 @@ Welcome to my GitHub profile!
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>⚡ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/sharvan naraparaju" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/sharvannaraparaju" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvan278&show_icons=true&locale=en" alt="sharvan278" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvan278&" alt="sharvan278" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvan278&show_icons=true&locale=en&layout=compact" alt="sharvan278" /></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/abhiram-jella/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/ohhnoabhii" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhiiesante&show_icons=true&locale=en" alt="sharvan278" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiiesante&" alt="sharvan278" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhiiesante&show_icons=true&locale=en&layout=compact" alt="sharvan278" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharvan278" alt="sharvan278" /></a></p>
